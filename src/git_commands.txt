@@ -27,6 +27,8 @@ git restore src/testing.java
 git status
 git log
 git show --stat
+
+this some new changes
 git log -- src/testing.java
 history
 git add git_commands.txt

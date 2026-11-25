@@ -39,3 +39,5 @@ git remote add origin https://github.com/Samadha-dev/github-for-devops-workshop.
 git remote -v
 git remote -v
 git push origin master
+
+this is updated comments

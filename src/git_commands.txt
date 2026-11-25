@@ -40,7 +40,5 @@ git remote -v
 git remote -v
 git push origin master
 
-<<<<<<< Updated upstream
 this is updated comments
-=======
->>>>>>> Stashed changes
+

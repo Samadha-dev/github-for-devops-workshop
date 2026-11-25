@@ -11,3 +11,31 @@ git status
 git log
 git show --stat
 git log -- src/testing.java
+git add src/testing.java
+git status
+git commit -m "add file"
+git status
+git status
+git restore testing.java
+git restore src/testing.java
+git restore src/testing.java
+git restore testing.java
+git restore --staged src/testing.java
+git restore src/testing.jav
+git restore src/testing.jav
+git restore src/testing.java
+git status
+git log
+git show --stat
+git log -- src/testing.java
+history
+git add git_commands.txt
+git status
+git add src/git_commands.txt
+git status
+git commit -m "added git command note"
+git status
+git remote add origin https://github.com/Samadha-dev/github-for-devops-workshop.git
+git remote -v
+git remote -v
+git push origin master
